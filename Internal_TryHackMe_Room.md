@@ -28,6 +28,12 @@
 ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 </pre>
 
+⚠️ Note:
+If you’re just hunting flags, you’ll find them.  
+But if you want to understand the system, break it apart, and learn — read on.  
+I didn’t write this just for copying… I wrote it to own it.
+
+
 first let's connect to vpn using openvpn
 ![connection](/home/kali/Pictures/openvpn_connection.png)
 
