@@ -15,24 +15,18 @@
 ---
 
 ## 📂 Contents / المحتويات
-
-| Room Name   | Difficulty | Description                           | Status       |
-|-------------|------------|----------------------------------------|--------------|
-| Overpass 2  | Easy       | PCAP Forensics + PrivEsc + Backdoor   | ✅ Completed  |
-| ...         | ...        | ...                                    | 🚧 In progress |
-
+Three directories: easy, medium, hard for organizing rooms according to their difficulty level.
 ---
 
 ## 💡 About this repository / حول هذا المستودع
 
-I created this repo to document my journey through TryHackMe as I build my cybersecurity and hacking skills.  
+  
 Each folder contains a full walkthrough for a room, including:
 - Enumeration steps
 - Exploitation methods
 - Flags (User / Root)
 - Notes + explanations in both English and Arabic
-
-أنشأت هذا المستودع لتوثيق مساري في TryHackMe أثناء تطويري لمهاراتي في الأمن السيبراني.  
+  
 كل مجلد يحتوي على:
 - خطوات جمع المعلومات
 - طرق الاستغلال
@@ -43,14 +37,7 @@ Each folder contains a full walkthrough for a room, including:
 
 ## 🛠️ Tools I Use
 
-- 🧪 Wireshark
-- 🛠️ netcat
-- 🔓 John the Ripper
-- 📡 Nmap / Rustscan
-- 🚩 LinPEAS / GTFOBins
-- 🐞 Burp Suite
-- 💻 Git + Terminal
-
+I use a variety of hacking and penetration testing tools to identify vulnerabilities and secure systems effectively
 ---
 
 ## 👨‍💻 Author: `NullSpecter404`
